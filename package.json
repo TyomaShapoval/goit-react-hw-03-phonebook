@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-04-phonebook",
+  "name": "goit-react-hw-03-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://TyomaShapoval.github.io/goit-react-hw-04-phonebook/",
+  "homepage": "https://TyomaShapoval.github.io/goit-react-hw-03-phonebook/",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@testing-library/jest-dom": "^5.16.3",
